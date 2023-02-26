@@ -26,3 +26,13 @@ I then unzipped the files using `zipfile` and saved them in the `data/data_files
 > An interesting observation from my analysis was that there were more subscribers than customers in the bike sharing service. This could be because the service caters more towards long-term users who can benefit from the subscription model. Additionally, the subscription model may offer discounts or other benefits, which could encourage users to sign up and contribute to the higher number of subscribers.
 
 > When looking at the duration of rides taken between January to December 2018, I found that the majority of rides lasted between 5 to 20 minutes, with a right-skewed distribution indicating that most rides were short. This trend suggests that the bike share system is primarily being used for short trips, such as commuting to and from work or school. However, riders tend to ride for longer durations on weekends, potentially using the bike share system for leisure and recreation. Interestingly, the customer category had longer ride durations throughout the week than the subscriber category, which may be because customer category riders use the bike share system more for leisure and recreation.
+
+## Key Insights for Presentation
+
+> For this analysis, I want to see how users utilize the bike sharing system. The main focus is on when the people ride the bikes in terms hours of the day, days of the week, and months of the year.
+
+> For this analysis, I would like to see the most popular starting points for bike rides.
+
+> I would also like to explore the characteristics of the users who used the bike sharing system. I would like to understand when certain categories of users (gender, user type, and age) use the bike sharing system.
+
+> Finally I would like to analyze the duration of the rides in minutes, the distance of travel in kilometres, and what category of users use the bike sharing system the longest.
